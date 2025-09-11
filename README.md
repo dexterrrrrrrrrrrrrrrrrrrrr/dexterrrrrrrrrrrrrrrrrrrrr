@@ -4,7 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=280&section=header&text=Anurag%20Paul&fontSize=70&fontColor=000000&animation=fadeIn&fontFamily=JetBrains%20Mono&fontWeight=100" />
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding1.png" width="400" />
 
 🎓 2nd-year Engineering Student | 💻 Full Stack & AI Enthusiast | 🚀 Hackathon Participant
 
@@ -13,7 +12,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Dynamic+Web+Apps...;Solving+DSA+Challenges...;Learning+AI+%26+ML...;Sharing+Knowledge+Online..." />
 </p>
 
 ---
