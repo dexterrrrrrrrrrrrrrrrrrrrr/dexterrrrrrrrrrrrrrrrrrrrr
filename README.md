@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Anurag;Full+Stack+Developer+%26+AI+Enthusiast;Welcome+to+My+Interactive+Profile" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Anurag;Full+Stack+Developer+%26+AI+Enthusiast;Welcome+to+My+Interactive+Profile" alt="Typing Animation"/>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=50fa7b&center=true&vCenter=true&width=800&lines=Building+Dynamic+Web+Apps...;Solving+DSA+Challenges...;Learning+AI+%26+ML...;Sharing+Knowledge+Online..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Dynamic+Web+Apps...;Solving+DSA+Challenges...;Learning+AI+%26+ML...;Sharing+Knowledge+Online..." />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 <h2 align="left">🌱 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=8be9fd&center=true&vCenter=true&width=900&lines=2nd-Year+B.E./B.Tech+Student+at+SVIT;Passionate+about+Coding,+Problem-Solving+%26+Continuous+Learning;Exploring+Full-Stack+Development,+AI+and+Machine+Learning;Always+Learning,+Always+Building,+Always+Growing..." />
+  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding1.png" alt="AI coding" height="200" style="border-radius:10px;"/>
 </p>
 
 <p align="center">
@@ -20,40 +20,26 @@
   ⭐ “Just a learner who codes, breaks, and builds again.”
 </p>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581092334447-cbcb80d9ab8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nJTIwYWklMjBhcnR8fDB8fHx8MTY5NDQxODk4NA&ixlib=rb-4.0.3&q=80&w=800" alt="AI coding" height="200" style="border-radius:10px;"/>
-</p>
-
 ---
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<marquee scrollamount="10" behavior="scroll" direction="left">
+<div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-</marquee>
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=900&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
 </p>
 
 ---
@@ -70,7 +56,7 @@
 <h2 align="left">✨ Projects & Fun Facts</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=50fa7b&center=true&vCenter=true&width=900&lines=Building+Interactive+Web+Apps;Experimenting+with+AI+%26+ML;Learning+New+Technologies;Sharing+Knowledge;Fixing+Bugs+Like+a+Pro;Contributing+to+Open+Source" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Interactive+Web+Apps;Experimenting+with+AI+%26+ML;Learning+New+Technologies;Sharing+Knowledge;Fixing+Bugs+Like+a+Pro;Contributing+to+Open+Source" />
 </p>
 
 <p align="center">
@@ -79,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555949963-aa79dcee981d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxfDB8MXxyYW5kb218MHx8Y29kaW5nJTIwYWklMjBhcnR8fDB8fHx8MTY5NDQyMDU0Mw&ixlib=rb-4.0.3&q=80&w=800" alt="AI coding 2" height="200" style="border-radius:10px;"/>
+  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding2.png" alt="AI coding 2" height="200" style="border-radius:10px;"/>
 </p>
 
 ---
@@ -106,11 +92,11 @@
 <h2 align="left">🔥 Keep Learning, Keep Building</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ff79c6&center=true&vCenter=true&width=900&lines=Learning+Never+Stops;Building+Is+Fun;Coding+Is+Life;Sharing+Knowledge+Is+Power;Always+Innovating,+Always+Improving..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ff79c6&center=true&vCenter=true&width=1200&lines=Learning+Never+Stops;Building+Is+Fun;Coding+Is+Life;Sharing+Knowledge+Is+Power;Always+Innovating,+Always+Improving..." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8be9fd&center=true&vCenter=true&width=900&lines=Dynamic+Web+Development...;AI+%26+Machine+Learning...;Open+Source+Contributions...;Continuous+Growth..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8be9fd&center=true&vCenter=true&width=1200&lines=Dynamic+Web+Development...;AI+%26+Machine+Learning...;Open+Source+Contributions...;Continuous+Growth..." />
 </p>
 
 ---
@@ -118,5 +104,5 @@
 <h2 align="left">💫 Motivation & Vision</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=900&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
 </p>
