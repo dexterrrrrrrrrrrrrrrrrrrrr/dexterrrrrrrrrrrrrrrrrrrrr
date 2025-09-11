@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">### 🌱 About Me</h2>
+<h2 align="center"> 🌱 About Me</h2>
 
 <p align="center">
 </p>
@@ -30,7 +30,7 @@
 
 ---
 
-### 💻 Tech Stack
+<p align="center" >### 💻 Tech Stack </p>
 
 <div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<p align="center" >### 📊 GitHub Stats</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_title=false&line_height=30" height="180"/>
@@ -65,7 +65,7 @@
 
 ---
 
-### ✨ Projects & Fun Facts
+<p align="center" >### ✨ Projects & Fun Facts</p>
 
 <p align="center">
 </p>
@@ -80,7 +80,7 @@
 
 ---
 
-### 🌐 Connect With Me
+<p align="center" >### 🌐 Connect With Me</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
