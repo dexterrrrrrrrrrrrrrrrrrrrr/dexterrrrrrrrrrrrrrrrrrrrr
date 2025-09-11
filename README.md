@@ -8,7 +8,6 @@
 🎓 2nd-year Engineering Student | 💻 Full Stack & AI Enthusiast | 🚀 Hackathon Participant
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Anurag;Full+Stack+Developer+%26+AI+Enthusiast;Welcome+to+My+Interactive+Profile" alt="Typing Animation"/>
 </h1>
 
 <p align="center">
@@ -19,7 +18,6 @@
 ### 🌱 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding1.png" alt="Coding GIF" height="200" style="border-radius:10px;"/>
 </p>
 
 - 🔥 2nd-year CSE undergrad passionate about scalable solutions, intelligent systems, and continuous learning in software development  
