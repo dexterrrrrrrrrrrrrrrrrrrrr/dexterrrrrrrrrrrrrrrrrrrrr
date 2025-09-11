@@ -1,8 +1,6 @@
-## Hi there 👋 I'm Anurag Paul  
-
-<p align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Anurag;Full+Stack+Developer+%26+AI+Enthusiast;Welcome+to+My+Interactive+Profile" alt="Typing Animation"/>
-</p>
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Dynamic+Web+Apps...;Solving+DSA+Challenges...;Learning+AI+%26+ML...;Sharing+Knowledge+Online..." />
@@ -10,21 +8,21 @@
 
 ---
 
-### 🌱 About Me
+<h2 align="left">🌱 About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding1.png" alt="AI coding" height="200" style="border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding GIF 1" height="200" style="border-radius:10px;"/>
 </p>
 
 <p align="center">
-  🔗 Reach me at: [LinkedIn](https://www.linkedin.com/in/anurag-paul-022206334/)<br>
+  🔗 Reach me at: <a href="https://www.linkedin.com/in/anurag-paul-022206334/">LinkedIn</a><br>
   ⚡ Fun fact: I spend more time fixing bugs than writing code 😅<br>
   ⭐ “Just a learner who codes, breaks, and builds again.”
 </p>
 
 ---
 
-### 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
@@ -40,9 +38,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
+</p>
+
 ---
 
-### 📊 GitHub Stats
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_title=false&line_height=30" height="180" />
@@ -51,7 +53,7 @@
 
 ---
 
-### ✨ Projects & Fun Facts
+<h2 align="left">✨ Projects & Fun Facts</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Interactive+Web+Apps;Experimenting+with+AI+%26+ML;Learning+New+Technologies;Sharing+Knowledge;Fixing+Bugs+Like+a+Pro;Contributing+to+Open+Source" />
@@ -63,12 +65,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding2.png" alt="AI coding 2" height="200" style="border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/l0HlPjez5x6eZ4Q7u/giphy.gif" alt="Coding GIF 2" height="200" style="border-radius:10px;"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+<h2 align="left">🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
@@ -87,8 +89,20 @@
 
 ---
 
-### 🔥 Keep Learning, Keep Building
+<h2 align="left">🔥 Keep Learning, Keep Building</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ff79c6&center=true&vCenter=true&width=1200&lines=Learning+Never+Stops;Building+Is+Fun;Coding+Is+Life;Sharing+Knowledge+Is+Power;Always+Innovating,+Always+Improving..." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8be9fd&center=true&vCenter=true&width=1200&lines=Dynamic+Web+Development...;AI+%26+Machine+Learning...;Open+Source+Contributions...;Continuous+Growth..." />
+</p>
+
+---
+
+<h2 align="left">💫 Motivation & Vision</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
 </p>
