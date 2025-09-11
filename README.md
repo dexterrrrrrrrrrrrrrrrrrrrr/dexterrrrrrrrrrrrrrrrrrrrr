@@ -5,7 +5,7 @@
 </p>
 
 
-🎓 2nd-year Engineering Student | 💻 Full Stack & AI Enthusiast | 🚀 Hackathon Participant
+<h2 align="center">🎓 2nd-year Engineering Student | 💻 Full Stack & AI Enthusiast | 🚀 Hackathon Participant</h2>
 
 <h1 align="center">
 </h1>
@@ -15,7 +15,7 @@
 
 ---
 
-### 🌱 About Me
+<h2 align="center">### 🌱 About Me</h2>
 
 <p align="center">
 </p>
