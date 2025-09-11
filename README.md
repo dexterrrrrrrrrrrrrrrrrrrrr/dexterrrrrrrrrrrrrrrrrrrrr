@@ -67,14 +67,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-paul-022206334/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
