@@ -76,7 +76,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding2.png" alt="Coding GIF" height="200" style="border-radius:10px;"/>
 </p>
 
 ---
