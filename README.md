@@ -11,7 +11,7 @@
 <h2 align="left">🌱 About Me</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding1.png" alt="AI coding" height="200" style="border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding GIF 1" height="200" style="border-radius:10px;"/>
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding2.png" alt="AI coding 2" height="200" style="border-radius:10px;"/>
+  <img src="https://media.giphy.com/media/l0HlPjez5x6eZ4Q7u/giphy.gif" alt="Coding GIF 2" height="200" style="border-radius:10px;"/>
 </p>
 
 ---
