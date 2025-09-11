@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center" >### 💻 Tech Stack </h2>
+<h2 align="center" > 💻 Tech Stack </h2>
 
 <div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
@@ -52,7 +52,7 @@
 
 ---
 
-<h2 align="center" >### 📊 GitHub Stats</h2>
+<h2 align="center" > 📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_title=false&line_height=30" height="180"/>
