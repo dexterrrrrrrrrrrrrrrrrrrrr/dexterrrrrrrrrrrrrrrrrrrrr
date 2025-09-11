@@ -68,7 +68,6 @@
 ### ✨ Projects & Fun Facts
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Interactive+Web+Apps;Experimenting+with+AI+%26+ML;Learning+New+Technologies;Sharing+Knowledge;Fixing+Bugs+Like+a+Pro;Contributing+to+Open+Source" />
 </p>
 
 <p align="center">
