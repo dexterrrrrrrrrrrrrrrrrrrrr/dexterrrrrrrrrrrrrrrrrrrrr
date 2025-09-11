@@ -1,5 +1,13 @@
 ## Hi there 👋 I'm Anurag Paul
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=280&section=header&text=Anurag%20Paul&fontSize=70&fontColor=000000&animation=fadeIn&fontFamily=JetBrains%20Mono&fontWeight=100" />
+</p>
+
+<img align="right" src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/main/images/ai-coding1.png" width="400" />
+
+🎓 2nd-year Engineering Student | 💻 Full Stack & AI Enthusiast | 🚀 Hackathon Participant
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Anurag;Full+Stack+Developer+%26+AI+Enthusiast;Welcome+to+My+Interactive+Profile" alt="Typing Animation"/>
 </h1>
