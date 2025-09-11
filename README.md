@@ -1,70 +1,108 @@
-## Hi there 👋 I'm Neel (Anurag Paul)  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=3000&pause=500&color=FF79C6&center=true&vCenter=true&width=1200&lines=Hey+👋+I'm+Anurag;Full+Stack+Developer+%26+AI+Enthusiast;Welcome+to+My+Interactive+Profile" alt="Typing Animation"/>
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=280&section=header&text=Neel%20(Anurag%20Paul)&fontSize=70&fontColor=000000&animation=fadeIn&fontFamily=JetBrains%20Mono&fontWeight=100" />
-</p>
-
-<img align="right" src="https://github.com/user-attachments/assets/your-image.png" width="400" />
-
-🎓 1st-year/2nd-year Engineering Student | 💻 Full Stack Developer | 🚀 Learning AI/ML & DSA  
-
----
-
-### 🚀 About Me
-- 🔥 CSE undergrad, passionate about **full stack development, scalable solutions & intelligent systems**.
-- 🌱 Learning Path: **Frontend → Backend → DSA → AI/ML → Continuous Growth**
-- 👯 Open to collaborate on **web apps, projects, and hackathons**
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/anurag-paul-xxxx)  
-- ⚡ Fun fact: Fueled by caffeine, coding sprints, and late-night experiments 😅  
-
-⭐️ *“Just a geek who builds, breaks, and figures things out.”*  
-
----
-
-### 🛠️ Languages & Tools  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,express,mongodb,html,css,git,github,vscode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Dynamic+Web+Apps...;Solving+DSA+Challenges...;Learning+AI+%26+ML...;Sharing+Knowledge+Online..." />
 </p>
 
 ---
 
-### 🧰 Tech Stack  
+<h2 align="left">🌱 About Me</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F05032?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Coding GIF 1" height="200" style="border-radius:10px;"/>
+</p>
+
+<p align="center">
+  🔗 Reach me at: <a href="https://www.linkedin.com/in/anurag-paul-022206334/">LinkedIn</a><br>
+  ⚡ Fun fact: I spend more time fixing bugs than writing code 😅<br>
+  ⭐ “Just a learner who codes, breaks, and builds again.”
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+<h2 align="center">💻 Tech Stack</h2>
+
+<div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragPaul&show_icons=true&theme=default&count_private=true&hide=prs,issues" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragPaul&theme=default&hide_border=true" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPaul&layout=compact&theme=default" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnuragPaul&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
 </p>
 
 ---
 
-### 🌟 Featured Projects
-- [**Ping Pong Game**](https://ping-pong-oey4riwdv-anurags-projects-72855ce7.vercel.app) – Fun browser-based ping pong game using JS, HTML & CSS  
-- [**100DaysOfCoding**](https://github.com/AnuragPaul/100DaysOfCoding) – My growth in DSA & Java  
-- [**Portfolio Website**](https://github.com/AnuragPaul/Portfolio) – My personal website showcasing projects & skills  
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_title=false&line_height=30" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=dracula&layout=compact&langs_count=7" height="180" />
+</div>
+
+---
+
+<h2 align="left">✨ Projects & Fun Facts</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=50fa7b&center=true&vCenter=true&width=1200&lines=Building+Interactive+Web+Apps;Experimenting+with+AI+%26+ML;Learning+New+Technologies;Sharing+Knowledge;Fixing+Bugs+Like+a+Pro;Contributing+to+Open+Source" />
+</p>
+
+<p align="center">
+  💡 Fun fact: I spend more time reading docs than writing code 😎<br>
+  🎯 Goal: Master DSA, Full-Stack, AI & ML, and become a versatile developer
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlPjez5x6eZ4Q7u/giphy.gif" alt="Coding GIF 2" height="200" style="border-radius:10px;"/>
+</p>
+
+---
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ofc.itz_anurag/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<h2 align="left">🔥 Keep Learning, Keep Building</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ff79c6&center=true&vCenter=true&width=1200&lines=Learning+Never+Stops;Building+Is+Fun;Coding+Is+Life;Sharing+Knowledge+Is+Power;Always+Innovating,+Always+Improving..." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8be9fd&center=true&vCenter=true&width=1200&lines=Dynamic+Web+Development...;AI+%26+Machine+Learning...;Open+Source+Contributions...;Continuous+Growth..." />
+</p>
+
+---
+
+<h2 align="left">💫 Motivation & Vision</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
+</p>
