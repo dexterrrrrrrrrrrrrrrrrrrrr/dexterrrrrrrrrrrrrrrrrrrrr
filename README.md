@@ -1,7 +1,7 @@
 <h1 align="center" >#Hi there 👋 I'm Anurag Paul </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=280&section=header&text=Anurag%20Paul&fontSize=70&fontColor=000000&animation=fadeIn&fontFamily=JetBrains%20Mono&fontWeight=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=280&section=header&text=ANURAG%20PAUL&fontSize=70&fontColor=000000&animation=fadeIn&fontFamily=JetBrains%20Mono&fontWeight=100" />
 </p>
 
 
