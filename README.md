@@ -30,7 +30,7 @@
 
 ---
 
-<h3 align="center" >### 💻 Tech Stack </h3>
+<h2 align="center" >### 💻 Tech Stack </h2>
 
 <div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
@@ -65,7 +65,7 @@
 
 ---
 
-<h2 align="center" >### ✨ Projects & Fun Facts</h2>
+<h2 align="center" > ✨ Projects & Fun Facts</h2>
 
 <p align="center">
 </p>
@@ -80,7 +80,7 @@
 
 ---
 
-<p align="center" >### 🌐 Connect With Me</p>
+<h2 align="center" > 🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
@@ -99,7 +99,7 @@
 
 ---
 
-### 🔥 Keep Learning, Keep Building
+<h2 align="center" > 🔥 Keep Learning, Keep Building</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ff79c6&center=true&vCenter=true&width=1200&lines=Learning+Never+Stops;Building+Is+Fun;Coding+Is+Life;Sharing+Knowledge+Is+Power;Always+Innovating,+Always+Improving..." />
@@ -111,7 +111,7 @@
 
 ---
 
-### 💫 Motivation & Vision
+<h2 align="center" > 💫 Motivation & Vision</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
