@@ -22,8 +22,6 @@
 
 ---
 
-<h2 align="left">💻 Tech Stack</h2>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <marquee scrollamount="10" behavior="scroll" direction="left">
@@ -51,10 +49,7 @@
 </marquee>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=900&lines=Frontend:+HTML+CSS+JS+React;Backend:+Node.js+Express;Database:+MongoDB+%26+MySQL;Tools:+Git+GitHub+VS+Code" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=900&lines=Frontend:+HTML,+CSS,+JavaScript,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=900&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
 </p>
 
 ---
@@ -117,3 +112,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=900&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
 </p>
+    
