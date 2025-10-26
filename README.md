@@ -116,3 +116,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
 </p>
+
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark&font=&extension=null)
