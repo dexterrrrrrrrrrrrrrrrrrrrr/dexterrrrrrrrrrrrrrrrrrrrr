@@ -119,4 +119,4 @@
 
 <h2 alig="center"> 🧩 LeetCode Stats</h2>
 
-<p align="center" ![LeetCode Stats](https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark&font=&extension=null) </p>
+![LeetCode Stats](https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark&font=&extension=null)
