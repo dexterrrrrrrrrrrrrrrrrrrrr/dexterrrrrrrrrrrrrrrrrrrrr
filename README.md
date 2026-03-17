@@ -47,7 +47,7 @@
 
 <h3 align="center">💸 Personal Finance Predictor</h3>
 <p align="center">AI-powered system that predicts spending & suggests savings</p>
-<p align="center"><code>Python • ML • Flask • MongoDB</code></p>
+<p align="center"><code>Python • ML • scikit-learn • Sqlite</code></p>
 <p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/personal-finance-predictor">
 <img src="https://img.shields.io/badge/📂 GitHub Repo-00F7FF?style=for-the-badge"/>
@@ -63,8 +63,9 @@
 <p align="center">Real-time AQI prediction + smart waste reporting</p>
 <p align="center"><code>ML • APIs • Dashboard</code></p>
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/🔗 Live Demo-00F7FF?style=for-the-badge"/></a>
-<a href="#"><img src="https://img.shields.io/badge/📂 GitHub-5B42F3?style=for-the-badge"/></a>
+<a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/Bharath-Sync">
+<img src="https://img.shields.io/badge/📂 GitHub Repo-5B42F3?style=for-the-badge"/>
+</a>
 </p>
 
 </td>
