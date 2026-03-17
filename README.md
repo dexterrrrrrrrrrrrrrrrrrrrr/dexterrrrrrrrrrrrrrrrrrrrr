@@ -44,8 +44,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-</div>
 
+  <!-- New Added Skills -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn" />
+
+  <!-- Postman (custom icon since not in devicon official set) -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman" />
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
 </p>
