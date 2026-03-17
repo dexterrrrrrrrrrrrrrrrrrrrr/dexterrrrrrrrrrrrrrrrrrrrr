@@ -47,7 +47,7 @@
 
 <h3 align="center">💸 Personal Finance Predictor</h3>
 <p align="center">AI-powered system that predicts spending & suggests savings</p>
-<p align="center"><code>Python • ML • Flask • MongoDB</code></p>
+<p align="center"><code>Python • ML • Flask • Sqlite</code></p>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/🔗 Live Demo-00F7FF?style=for-the-badge"/></a>
 <a href="#"><img src="https://img.shields.io/badge/📂 GitHub-5B42F3?style=for-the-badge"/></a>
