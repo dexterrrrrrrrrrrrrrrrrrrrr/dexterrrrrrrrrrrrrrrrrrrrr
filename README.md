@@ -110,13 +110,11 @@
 
 ---
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #00F7FF, transparent);" />
-
-<p align="center" style="font-size:22px; font-weight:bold;">
-✨ Thanks for visiting my profile! ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:5B42F3,100:FF00CC&height=80&section=header&text=✨%20Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=28&fontColor=ffffff" />
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF00CC, transparent);" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
 
 <!-- FULL WIDTH FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
