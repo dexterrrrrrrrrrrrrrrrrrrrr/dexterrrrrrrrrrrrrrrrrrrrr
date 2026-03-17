@@ -97,7 +97,7 @@
 <h2 align="center"> 🧩 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark" />
+  <img src="https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark&font=baloo&extension=heatmap" />
 </p>
 
 ---
