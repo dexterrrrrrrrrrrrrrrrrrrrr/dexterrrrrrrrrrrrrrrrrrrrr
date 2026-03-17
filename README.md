@@ -110,9 +110,13 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=✨+Thanks+for+visiting+my+profile!+✨;🚀+Come+back+again!+;💡+Keep+Building+Awesome+Things!" />
+<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #00F7FF, transparent);" />
+
+<p align="center" style="font-size:22px; font-weight:bold;">
+✨ Thanks for visiting my profile! ✨
 </p>
+
+<hr style="border: none; height: 2px; background: linear-gradient(to right, transparent, #FF00CC, transparent);" />
 
 <!-- FULL WIDTH FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
