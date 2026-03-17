@@ -135,3 +135,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙏;Happy+Coding!+🚀;Keep+Building+Awesome+Things+💡" />
 </p>
+
+<div align="center">
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Code.+Create.+Innovate.+🚀;See+you+again!+👋" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
+
+</div>
