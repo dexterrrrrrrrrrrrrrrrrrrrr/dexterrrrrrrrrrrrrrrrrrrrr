@@ -1,24 +1,13 @@
-<h1 align="center" >Hi there 👋 I'm Anurag Paul </h1>
+<!-- FULL WIDTH HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=ANURAG%20PAUL&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:FFFFFF&height=280&section=header&text=ANURAG%20PAUL&fontSize=70&fontColor=000000&animation=fadeIn&fontFamily=JetBrains%20Mono&fontWeight=100" />
-</p>
-
+<h1 align="center">Hi there 👋 I'm Anurag Paul</h1>
 
 <h2 align="center">🎓 2nd-year Engineering Student | 💻 Full Stack & AI Enthusiast | 🚀 Hackathon Participant</h2>
-
-<h1 align="center">
-</h1>
-
-<p align="center">
-</p>
 
 ---
 
 <h2 align="center"> 🌱 About Me</h2>
-
-<p align="center">
-</p>
 
 - 🔥 2nd-year CSE undergrad passionate about scalable solutions, intelligent systems, and continuous learning in software development  
 - 🌱 MERN & Real-time Webapps → Logic with DSA → Intelligence with AI/ML → Growth through Progress  
@@ -26,45 +15,48 @@
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/anurag-paul-022206334/)  
 - ⚡ Fun fact: I spend more time fixing bugs than writing code 😅  
 
-⭐️ *“Just a learner who codes, breaks, and builds again.”*
-
----
-
-<h2 align="center" > 💻 Tech Stack </h2>
-
-<div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" />
-
-  <!-- New Added Skills -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" title="scikit-learn" />
-
-  <!-- Postman (custom icon since not in devicon official set) -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" title="Postman" />
-</div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
+⭐️ <i>“Just a learner who codes, breaks, and builds again.”</i>
 </p>
 
 ---
 
-<h2 align="center" > 📊 GitHub Stats</h2>
+<h2 align="center"> 💻 Tech Stack </h2>
+
+<div align="center" style="display:flex; flex-wrap:nowrap; overflow-x:auto; gap:20px; padding:10px;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" title="MongoDB" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" title="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" title="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" title="PyTorch" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" title="scikit-learn" />
+
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" title="Postman" />
+
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_title=false&line_height=30" height="180"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=ffb86c&center=true&vCenter=true&width=900&lines=Frontend:+HTML,+CSS,+JS,+React;Backend:+Node.js,+Express.js;Database:+MongoDB,+MySQL;Tools:+Git,+GitHub,+VS+Code;Learning+New+Technologies+Every+Day..." />
+</p>
+
+---
+
+<h2 align="center"> 📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=dracula&layout=compact&langs_count=7" height="180"/>
 </p>
 
@@ -74,22 +66,16 @@
 
 ---
 
-<h2 align="center" > ✨ Projects & Fun Facts</h2>
-
-<p align="center">
-</p>
+<h2 align="center"> ✨ Projects & Fun Facts</h2>
 
 <p align="center">
   💡 Fun fact: I spend more time reading docs than writing code 😎<br>
   🎯 Goal: Master DSA, Full-Stack, AI & ML, and become a versatile developer
 </p>
 
-<p align="center">
-</p>
-
 ---
 
-<h2 align="center" > 🌐 Connect With Me</h2>
+<h2 align="center"> 🌐 Connect With Me</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
@@ -108,37 +94,21 @@
 
 ---
 
-<h2 align="center" > 🔥 Keep Learning, Keep Building</h2>
+<h2 align="center"> 🧩 LeetCode Stats</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ff79c6&center=true&vCenter=true&width=1200&lines=Learning+Never+Stops;Building+Is+Fun;Coding+Is+Life;Sharing+Knowledge+Is+Power;Always+Innovating,+Always+Improving..." />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=8be9fd&center=true&vCenter=true&width=1200&lines=Dynamic+Web+Development...;AI+%26+Machine+Learning...;Open+Source+Contributions...;Continuous+Growth..." />
+  <img src="https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark" />
 </p>
 
 ---
 
-<h2 align="center" > 💫 Motivation & Vision</h2>
+<h2 align="center"> 🔥 Keep Learning, Keep Building</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=ffb86c&center=true&vCenter=true&width=1200&lines=Code+Today,+Impact+Tomorrow...;Dream+Big,+Build+Bigger...;Learning+Is+A+Journey,+Not+A+Destination...;Keep+Coding,+Keep+Growing..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=500&color=ff79c6&center=true&vCenter=true&width=900&lines=Learning+Never+Stops;Building+Is+Fun;Coding+Is+Life;Always+Innovating..." />
 </p>
 
-<h2 align="center"> 🧩 LeetCode Stats</h2>
+---
 
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark&font=&extension=null" alt="LeetCode Stats" />
-</p>
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+🙏;Code.+Create.+Innovate.+🚀;See+you+again!+👋" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
-
-</div>
+<!-- FULL WIDTH FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%"/>
