@@ -132,11 +132,6 @@
   <img src="https://leetcode.card.workers.dev/anurag_paul_2006?theme=dark&font=&extension=null" alt="LeetCode Stats" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙏;Happy+Coding!+🚀;Keep+Building+Awesome+Things+💡" />
-</p>
-
-<div align="center">
 
 ---
 
