@@ -120,6 +120,9 @@
 <a href="https://instagram.com/ofc.itz_anurag/">
   <img src="https://img.shields.io/badge/Instagram-FF00CC?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
+<a href="mailto:anuragpaul2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
 </p>
 
 <p align="center">
