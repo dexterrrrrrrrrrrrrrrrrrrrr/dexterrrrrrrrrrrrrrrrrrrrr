@@ -117,7 +117,7 @@
 <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
   <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-<a href="https://instagram.com/ofc.itz_anurag/">
+<a href="https://instagram.com/anurag_devx/">
   <img src="https://img.shields.io/badge/Instagram-FF00CC?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="mailto:anuragpaul2006@gmail.com">
