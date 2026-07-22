@@ -1,125 +1,138 @@
-🚀 ANURAG PAUL 🚀
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,50:0F2027,100:00F7FF&text=ANURAG%20PAUL&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=38"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:00F7FF&height=250&section=header&text=ANURAG%20PAUL&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
-<h1 align="center">Hi 👋, I'm Anurag Paul</h1>
-<h3 align="center">Full Stack Developer • AI/ML Enthusiast • Open Source Contributor</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dexterrrrrrrrrrrrrrrrrrrrr&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-</p>
+👋 Hey, I’m Anurag Paul
+
+🚀 Full Stack Developer • 🤖 AI/ML Enthusiast • 🌟 Open Source Contributor
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Machine+Learning;Hackathons+%7C+Open+Source+%7C+Innovation;Always+Learning+Always+Building" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=dexterrrrrrrrrrrrrrrrrrrrr&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+</div>
 
 ⸻
 
 🧠 About Me
 
-* 🎓 2nd Year Information Science Engineering Student
-* 💻 MERN Stack Developer
-* 🤖 AI/ML Enthusiast
-* 🌱 Currently learning DSA & System Design
-* 🚀 Hackathon Builder & Open Source Contributor
-* 💡 Passionate about solving real-world problems with technology
-
-<p align="center">
-  <i>"Code. Build. Learn. Repeat."</i>
-</p>
+Name: Anurag Paul
+Education: Information Science Engineering
+Location: Bangalore, India
+Role:
+  - Full Stack Developer
+  - AI/ML Enthusiast
+  - Open Source Contributor
+Currently Learning:
+  - Data Structures & Algorithms
+  - System Design
+  - Advanced MERN Stack
+  - Machine Learning Systems
+Philosophy:
+  - Code
+  - Build
+  - Learn
+  - Repeat
 
 ⸻
 
 ⚡ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,java,git,github,tailwind,vscode,tensorflow,docker" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,sqlite,tailwind,git,github,vscode,postman,tensorflow,docker&perline=10" />
+</div>
 
 ⸻
 
 🚀 Featured Projects
 
-💸 Personal Finance Predictor
-
-AI-powered finance prediction system with spending insights and savings recommendations.
-
-Tech Stack: Python, Machine Learning, Scikit-Learn, SQLite
-
-🔗 Repository:
-https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/personal-finance-predictor
-
-⸻
-
-🌍 Bharat Sync – AI AQI Monitoring System
-
-Real-time AQI prediction and smart waste reporting platform.
-
-Tech Stack: Machine Learning, APIs, Dashboard
-
-🔗 Repository:
-https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/Bharath-Sync
-
-⸻
-
 🎓 EduVerse Companion
 
-AI-powered education platform with quizzes, chatbot, image generation and progress tracking.
+AI-powered education ecosystem featuring:
 
-Tech Stack: React, TypeScript, Tailwind, Gemini API, Supabase
+* AI Chatbot
+* Adaptive Quiz Generator
+* AI Content Generation
+* Progress Analytics
+* Interactive Learning Experience
 
-🔗 Live Demo:
-https://eduverse-companion.vercel.app/
+Tech: React • TypeScript • Tailwind • Gemini API • Supabase
+
+⸻
+
+🌍 Bharat Sync
+
+Smart environmental monitoring platform.
+
+Features
+
+* AQI Prediction
+* Smart Waste Reporting
+* Real-time Dashboard
+* Machine Learning Forecasting
+
+Tech: Python • ML • APIs • Analytics
+
+⸻
+
+💸 Personal Finance Predictor
+
+AI-powered spending prediction and savings recommendation engine.
+
+Tech: Python • Scikit-Learn • SQLite
 
 ⸻
 
 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterrrrrrrrrrrrrrrrrrrrr&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexterrrrrrrrrrrrrrrrrrrrr&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyonight&hide_border=true"/>
+</div>
 
 ⸻
 
 🏆 Achievements
 
-* 🥇 Multiple Hackathon Participant & Finalist
-* 🚀 Built AI & Full Stack Projects
-* 🌐 Contributor in Open Source Programs
-* 📚 Active DSA Learner
-* 💡 Passionate Problem Solver
+* 🥇 Hackathon Finalist
+* 🚀 Built Multiple AI & Full Stack Projects
+* 🌟 Open Source Contributor
+* 💻 Active Problem Solver
+* 📚 Consistent DSA Learner
 
 ⸻
 
-📚 Currently Learning
+📈 Developer Journey
 
-* Data Structures & Algorithms
-* Advanced MERN Stack
-* Machine Learning Systems
-* System Design
-* DevOps & CI/CD
+Frontend        ████████████░░░░ 85%
+Backend         ███████████░░░░░ 82%
+AI / ML         ██████████░░░░░░ 75%
+DSA             ████████░░░░░░░░ 60%
+System Design   ███████░░░░░░░░░ 55%
+DevOps          ██████░░░░░░░░░░ 45%
 
 ⸻
 
 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="https://instagram.com/anurag_devx/">
-    <img src="https://img.shields.io/badge/Instagram-FF00CC?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:anuragpaul2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
-  </a>
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/anurag-paul-022206334/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:anuragpaul2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/anurag_devx/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</div>
 
 ⸻
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=120&section=footer"/>
-</p>
+<div align="center">
+
+⚡ “Turning Ideas Into Impactful Products”
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:0F2027,100:00F7FF"/>
+</div>
