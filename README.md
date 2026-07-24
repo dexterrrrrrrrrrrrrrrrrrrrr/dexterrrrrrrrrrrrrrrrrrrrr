@@ -76,8 +76,21 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dexterrrrrrrrrrrrrrrrrrrrr&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dexterrrrrrrrrrrrrrrrrrrrr&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  ## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia&utcOffset=5.5"/>
+
+</div>
 </p>
 
 <p align="center">
