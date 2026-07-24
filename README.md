@@ -80,7 +80,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
 
@@ -88,7 +87,7 @@
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia&utcOffset=5.5"/>
+
 
 </div>
 </p>
