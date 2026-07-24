@@ -19,7 +19,7 @@
 <h2 align="center">🧠 About Me</h2>
 
 
-+ 2nd Year CSE Student
++ 3rd Year CSE Student
 + MERN Stack Developer
 + AI/ML Enthusiast
 + Passionate about solving real-world problems
