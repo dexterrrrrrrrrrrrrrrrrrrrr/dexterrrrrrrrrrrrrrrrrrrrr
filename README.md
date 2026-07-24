@@ -139,3 +139,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=150&section=footer" width="100%"/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyo-night&hide_border=true"/>
+</p>
