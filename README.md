@@ -143,12 +143,3 @@
 <br/><br/>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/dexterrrrrrrrrrrrrrrrrrrrr/dexterrrrrrrrrrrrrrrrrrrrr/output/github-snake-dark.svg" width="95%" alt="contribution snake"/>
-
-</div>
-
-
-</div>
-
-
