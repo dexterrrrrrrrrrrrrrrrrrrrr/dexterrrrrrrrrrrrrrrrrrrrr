@@ -100,8 +100,8 @@
 <h2 align="center">🧩 LeetCode</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Baloo&ext=heatmap" />
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Karma&ext=contest)  
+  <img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Karma&ext=contest" />
+    
 
 </p>
 
