@@ -43,17 +43,17 @@
 <div align="center">
 <table>
 <tr>
+
 <td width="50%">
 
 <h3 align="center">💸 Personal Finance Predictor</h3>
 <p align="center">AI-powered system that predicts spending & suggests savings</p>
-<p align="center"><code>Python • ML • scikit-learn • Sqlite</code></p>
+<p align="center"><code>Python • ML • scikit-learn • SQLite</code></p>
 <p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/personal-finance-predictor">
 <img src="https://img.shields.io/badge/📂 GitHub Repo-00F7FF?style=for-the-badge"/>
 </a>
 </p>
-
 
 </td>
 
@@ -69,6 +69,37 @@
 </p>
 
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 SmartRAG</h3>
+<p align="center">Semantic caching + cost-aware LLM routing for efficient RAG</p>
+<p align="center"><code>Python • FastAPI • Qdrant • Redis • Ollama • Streamlit</code></p>
+<p align="center">
+<a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/smartrag">
+<img src="https://img.shields.io/badge/📂 GitHub Repo-FF6B35?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🧠 AI Retinal Analyzer</h3>
+<p align="center">AI-powered retinal image analysis & intelligent reports</p>
+<p align="center"><code>Python • OpenCV • Gemini • AI/ML</code></p>
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/badge/📂 GitHub Repo-8A2BE2?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
 </tr>
 </table>
 </div>
