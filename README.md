@@ -93,7 +93,7 @@
 <p align="center">AI-powered retinal image analysis & intelligent reports</p>
 <p align="center"><code>Python • OpenCV • Gemini • AI/ML</code></p>
 <p align="center">
-<a href="#">
+<a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AI-retinal-analyzer">
 <img src="https://img.shields.io/badge/📂 GitHub Repo-8A2BE2?style=for-the-badge"/>
 </a>
 </p>
