@@ -8,14 +8,6 @@
   🚀 Full Stack Developer | 🤖 AI Engineer | 💡 Builder
 </h3>
 
-<!-- ================= HACKATHON WINNER BADGE ================= -->
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/CYPHER%204.0-1st%20Prize%20Winner-FFD700?style=for-the-badge&labelColor=000000"
-    alt="Cypher 4.0 First Prize Winner"
-  />
-</p>
 
 <!-- ================= PROFILE VIEWS ================= -->
 
@@ -38,9 +30,7 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
 
 - 🎓 3rd Year Information Science & Engineering Student @ SVIT
 - 💻 Full Stack & MERN Stack Developer
@@ -52,9 +42,7 @@
 - 💡 Passionate about solving real-world problems
 - 🔥 Always Learning, Always Building
 
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
   ⚡ <i>“Code. Break. Learn. Repeat.”</i>
