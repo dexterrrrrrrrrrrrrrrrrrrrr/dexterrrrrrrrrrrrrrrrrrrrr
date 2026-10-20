@@ -54,41 +54,59 @@
 
 <h2 align="center">⚡ Tech Stack</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
-</p>
+<table>
+  <tr>
+    <th align="center">Category</th>
+    <th align="center">Technologies</th>
+  </tr>
 
-<h3 align="center">🌐 Frontend Development</h3>
+  <tr>
+    <td align="center"><b>💻 Programming Languages</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,vite" alt="Frontend Technologies"/>
-</p>
+  <tr>
+    <td align="center"><b>🌐 Frontend Development</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,vite" alt="Frontend Technologies"/>
+    </td>
+  </tr>
 
-<h3 align="center">⚙️ Backend Development</h3>
+  <tr>
+    <td align="center"><b>⚙️ Backend Development</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" alt="Backend Technologies"/>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" alt="Backend Technologies"/>
-</p>
+  <tr>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" alt="Databases"/>
+    </td>
+  </tr>
 
-<h3 align="center">🗄️ Databases</h3>
+  <tr>
+    <td align="center"><b>🤖 AI / ML & Data Science</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and Machine Learning"/>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" alt="Databases"/>
-</p>
+  <tr>
+    <td align="center"><b>🛠️ Tools & Technologies</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux" alt="Development Tools"/>
+    </td>
+  </tr>
 
-<h3 align="center">🤖 AI / ML & Data Science</h3>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and Machine Learning"/>
-</p>
-
-<h3 align="center">🛠️ Tools & Technologies</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux" alt="Development Tools"/>
-</p>
+</div>
 
 ---
 
