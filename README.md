@@ -104,6 +104,16 @@
     </td>
   </tr>
 
+  <tr>
+    <td align="center"><b>☁️ Cloud & Deployment</b></td>
+    <td align="center">
+      <img
+      src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare,render"
+      alt="AWS, Azure, Google Cloud, Vercel, Netlify, Cloudflare, Render"
+    />
+    </td>
+  </tr>
+
 </table>
 
 </div>
