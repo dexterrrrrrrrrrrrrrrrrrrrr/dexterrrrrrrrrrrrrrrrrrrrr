@@ -42,15 +42,15 @@
 <tr>
 <td>
 
-- 🎓 3rd Year Information Science & Engineering Student @ SVIT
-- 💻 Full Stack & MERN Stack Developer
-- 🤖 AI/ML & AI Engineering Enthusiast
-- 🥇 1st Prize Winner @ Cypher 4.0 Hackathon
-- 🌟 Google Student Ambassador 2026
-- ⚡ Vice Chair, IEEE Information Theory Society, SVIT
-- 🚀 Open Source Contributor @ GSSoC'26
-- 💡 Passionate about solving real-world problems
-- 🔥 Always Learning, Always Building
+🎓 3rd Year Information Science & Engineering Student @ SVIT <br>
+💻 Full Stack & MERN Stack Developer <br>
+🤖 AI/ML & AI Engineering Enthusiast <br>
+🥇 1st Prize Winner @ Cypher 4.0 Hackathon <br>
+🌟 Google Student Ambassador 2026 <br>
+⚡ Vice Chair, IEEE Information Theory Society, SVIT <br>
+🚀 Open Source Contributor @ GSSoC'26 <br>
+💡 Passionate about solving real-world problems <br>
+🔥 Always Learning, Always Building
 
 </td>
 </tr>
@@ -64,43 +64,68 @@
 
 <!-- ================= TECH STACK ================= -->
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">⚡ Tech Stack & Technologies</h2>
 
-<h3 align="center">💻 Programming Languages</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th align="center">💡 Category</th>
+      <th align="center">🚀 Technologies & Tools</th>
+    </tr>
+  </thead>
 
-<h3 align="center">🌐 Frontend Development</h3>
+  <tbody>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,vite" alt="Frontend Technologies"/>
-</p>
+    <tr>
+      <td align="center"><b>💻 Programming Languages</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Python, Java, C++, C, JavaScript, TypeScript"/>
+      </td>
+    </tr>
 
-<h3 align="center">⚙️ Backend Development</h3>
+    <tr>
+      <td align="center"><b>🌐 Frontend Development</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,vite" alt="HTML, CSS, React, Vue, Tailwind, Vite"/>
+      </td>
+    </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" alt="Backend Technologies"/>
-</p>
+    <tr>
+      <td align="center"><b>⚙️ Backend Development</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" alt="Node.js, Express, FastAPI, Flask, Django"/>
+      </td>
+    </tr>
 
-<h3 align="center">🗄️ Databases</h3>
+    <tr>
+      <td align="center"><b>🗄️ Databases</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" alt="MySQL, MongoDB, PostgreSQL, SQLite, Redis"/>
+      </td>
+    </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" alt="Databases"/>
-</p>
+    <tr>
+      <td align="center"><b>🤖 AI / ML & Data Science</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="TensorFlow, PyTorch, OpenCV, Scikit-learn"/>
+      </td>
+    </tr>
 
-<h3 align="center">🤖 AI / ML & Data Science</h3>
+    <tr>
+      <td align="center"><b>🛠️ Tools & DevOps</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux" alt="Git, GitHub, VS Code, Postman, Docker, Vercel, Linux"/>
+      </td>
+    </tr>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and Machine Learning"/>
-</p>
+  </tbody>
+</table>
 
-<h3 align="center">🛠️ Tools & Technologies</h3>
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux" alt="Development Tools"/>
-</p>
+<br>
 
 ---
 
@@ -111,6 +136,7 @@
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -190,6 +216,7 @@ AI-powered retinal image analysis & intelligent reports
 </td>
 
 </tr>
+
 </table>
 
 </div>
@@ -200,27 +227,30 @@ AI-powered retinal image analysis & intelligent reports
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<!-- TOP ROW: TWO CARDS SIDE BY SIDE -->
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
-  alt="Repositories Per Language"
-/>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
+    width="49%"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
+    width="49%"
+    alt="Most Committed Languages"
+  />
+</p>
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
-  alt="Most Committed Languages"
-/>
+<!-- BOTTOM ROW: ONE CARD CENTERED -->
 
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
-  alt="GitHub Statistics"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
+    width="49%"
+    alt="GitHub Statistics"
+  />
+</p>
 
 <br>
 
