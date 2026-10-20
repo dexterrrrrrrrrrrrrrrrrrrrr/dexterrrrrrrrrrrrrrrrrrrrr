@@ -218,14 +218,16 @@ AI-powered retinal image analysis & intelligent reports
 
 <br>
 
-<!-- ================= ACTIVITY GRAPH ================= -->
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+<h2 align="center">📈 GitHub Contribution Graph</h2>
 
-<h2 align="center">📉 GitHub Activity Graph</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyo-night&hide_border=true" width="100%"/>
-</p>
+<img src="https://ghchart.rshah.org/C084FC/dexterrrrrrrrrrrrrrrrrrrrr"
+     alt="Anurag Paul's GitHub Contributions"
+     width="100%" />
 
+</div>
 ---
 
 <!-- ================= LEETCODE ================= -->
