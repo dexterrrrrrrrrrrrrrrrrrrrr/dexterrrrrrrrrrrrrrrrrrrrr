@@ -11,13 +11,19 @@
 <!-- ================= HACKATHON WINNER BADGE ================= -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CYPHER%204.0-1st%20Prize%20Winner-FFD700?style=for-the-badge&labelColor=000000" />
+  <img
+    src="https://img.shields.io/badge/CYPHER%204.0-1st%20Prize%20Winner-FFD700?style=for-the-badge&labelColor=000000"
+    alt="Cypher 4.0 First Prize Winner"
+  />
 </p>
 
 <!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dexterrrrrrrrrrrrrrrrrrrrr&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=dexterrrrrrrrrrrrrrrrrrrrr&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
@@ -32,6 +38,10 @@
 
 <h2 align="center">🧠 About Me</h2>
 
+<table align="center">
+<tr>
+<td>
+
 - 🎓 3rd Year Information Science & Engineering Student @ SVIT
 - 💻 Full Stack & MERN Stack Developer
 - 🤖 AI/ML & AI Engineering Enthusiast
@@ -41,6 +51,10 @@
 - 🚀 Open Source Contributor @ GSSoC'26
 - 💡 Passionate about solving real-world problems
 - 🔥 Always Learning, Always Building
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   ⚡ <i>“Code. Break. Learn. Repeat.”</i>
@@ -55,37 +69,37 @@
 <h3 align="center">💻 Programming Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" alt="Programming Languages"/>
 </p>
 
 <h3 align="center">🌐 Frontend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,vite" alt="Frontend Technologies"/>
 </p>
 
 <h3 align="center">⚙️ Backend Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" alt="Backend Technologies"/>
 </p>
 
 <h3 align="center">🗄️ Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" alt="Databases"/>
 </p>
 
 <h3 align="center">🤖 AI / ML & Data Science</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI and Machine Learning"/>
 </p>
 
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux" alt="Development Tools"/>
 </p>
 
 ---
@@ -97,46 +111,41 @@
 <div align="center">
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">💸 Personal Finance Predictor</h3>
+<h3>💸 Personal Finance Predictor</h3>
 
-<p align="center">
+<p>
 AI-powered system that predicts spending & suggests savings
 </p>
 
-<p align="center">
+<p>
 <code>Python • ML • scikit-learn • SQLite</code>
 </p>
 
-<p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/personal-finance-predictor">
-<img src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Personal Finance Predictor Repository"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🌍 AI AQI Monitoring System</h3>
+<h3>🌍 AI AQI Monitoring System</h3>
 
-<p align="center">
+<p>
 Real-time AQI prediction + smart waste reporting
 </p>
 
-<p align="center">
+<p>
 <code>ML • APIs • Dashboard</code>
 </p>
 
-<p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/Bharath-Sync">
-<img src="https://img.shields.io/badge/GitHub-Repository-5B42F3?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Repository-5B42F3?style=for-the-badge&logo=github&logoColor=white" alt="AQI Monitoring Repository"/>
 </a>
-</p>
 
 </td>
 
@@ -144,48 +153,43 @@ Real-time AQI prediction + smart waste reporting
 
 <tr>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🤖 SmartRAG</h3>
+<h3>🤖 SmartRAG</h3>
 
-<p align="center">
+<p>
 Semantic caching + cost-aware LLM routing for efficient RAG
 </p>
 
-<p align="center">
+<p>
 <code>Python • FastAPI • Qdrant • Redis • Ollama • Streamlit</code>
 </p>
 
-<p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/smartrag">
-<img src="https://img.shields.io/badge/GitHub-Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="SmartRAG Repository"/>
 </a>
-</p>
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-<h3 align="center">🧠 AI Retinal Analyzer</h3>
+<h3>🧠 AI Retinal Analyzer</h3>
 
-<p align="center">
+<p>
 AI-powered retinal image analysis & intelligent reports
 </p>
 
-<p align="center">
+<p>
 <code>Python • OpenCV • Gemini • AI/ML</code>
 </p>
 
-<p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AI-retinal-analyzer">
-<img src="https://img.shields.io/badge/GitHub-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="AI Retinal Analyzer Repository"/>
 </a>
-</p>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -198,11 +202,23 @@ AI-powered retinal image analysis & intelligent reports
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
+  alt="Repositories Per Language"
+/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
+  alt="Most Committed Languages"
+/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"/>
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
+  alt="GitHub Statistics"
+/>
 
 </div>
 
@@ -213,21 +229,28 @@ AI-powered retinal image analysis & intelligent reports
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Statistics"
+  />
 </p>
 
 <br>
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
+
 <h2 align="center">📈 GitHub Contribution Graph</h2>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/00F7FF/dexterrrrrrrrrrrrrrrrrrrrr"
+    alt="Anurag Paul's GitHub Contributions"
+    width="100%"
+  />
+</p>
 
-<img src="https://ghchart.rshah.org/C084FC/dexterrrrrrrrrrrrrrrrrrrrr"
-     alt="Anurag Paul's GitHub Contributions"
-     width="100%" />
+<br>
 
-</div>
 ---
 
 <!-- ================= LEETCODE ================= -->
@@ -235,7 +258,10 @@ AI-powered retinal image analysis & intelligent reports
 <h2 align="center">🧩 LeetCode</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Karma&ext=contest" />
+  <img
+    src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Karma&ext=contest"
+    alt="LeetCode Statistics"
+  />
 </p>
 
 ---
@@ -262,25 +288,36 @@ AI-powered retinal image analysis & intelligent reports
 
 <h2 align="center">🏆 Achievements & Recognition</h2>
 
-<p align="center">
+<div align="center">
 
-  🥇 <b>1st Prize Winner | Cypher 4.0 Hackathon</b> 🏆 <br><br>
+<h3>🥇 Cypher 4.0 Hackathon | 1st Prize Winner 🏆</h3>
 
-  🌟 Google Student Ambassador 2026 <br><br>
-
-  ⚡ Vice Chair @ IEEE Information Theory Society, SVIT <br><br>
-
-  🚀 Open Source Contributor @ GSSoC'26 <br><br>
-
-  🏆 National-Level Hackathon Participant <br><br>
-
-  💻 Built AI/ML & Full Stack Projects <br><br>
-
-  🎯 Organized Technical Events & Hackathons <br><br>
-
-  💡 Passionate Problem Solver
-
+<p>
+  <img
+    src="https://img.shields.io/badge/CYPHER%204.0-1st%20Prize%20Winner-FFD700?style=for-the-badge&labelColor=000000"
+    alt="Cypher 4.0 Hackathon Winner"
+  />
 </p>
+
+<br>
+
+<p>🌟 <b>Google Student Ambassador 2026</b></p>
+
+<p>⚡ <b>Vice Chair | IEEE Information Theory Society, SVIT</b></p>
+
+<p>🚀 <b>Open Source Contributor | GSSoC'26</b></p>
+
+<p>🏆 National-Level Hackathon Participant</p>
+
+<p>💻 Built AI/ML & Full Stack Projects</p>
+
+<p>🎯 Organized Technical Events & Hackathons</p>
+
+<p>💡 Passionate Problem Solver</p>
+
+</div>
+
+<br>
 
 ---
 
@@ -291,15 +328,24 @@ AI-powered retinal image analysis & intelligent reports
 <p align="center">
 
 <a href="https://www.linkedin.com/in/anurag-paul-022206334/">
-  <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://instagram.com/anurag_devx/">
-  <img src="https://img.shields.io/badge/Instagram-FF00CC?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Instagram-FF00CC?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 <a href="mailto:anuragpaul2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <img
+    src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"
+    alt="Email"
+  />
 </a>
 
 </p>
@@ -309,9 +355,17 @@ AI-powered retinal image analysis & intelligent reports
 <!-- ================= THANK YOU BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:5B42F3,100:FF00CC&height=90&section=header&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=ffffff" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:5B42F3,100:FF00CC&height=90&section=header&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=ffffff"
+    width="100%"
+    alt="Thanks for visiting"
+  />
 </p>
 
 <!-- ================= FOOTER ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=150&section=footer" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=150&section=footer"
+  width="100%"
+  alt="Footer"
+/>
