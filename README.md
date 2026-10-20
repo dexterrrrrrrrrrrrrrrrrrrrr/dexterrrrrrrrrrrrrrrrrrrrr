@@ -1,8 +1,20 @@
 <!-- ================= ULTRA HEADER ================= -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:00F7FF&height=300&section=header&text=ANURAG%20PAUL&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <h1 align="center">Hi 👋 I'm Anurag Paul</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 💡 Builder</h3>
+
+<h3 align="center">
+  🚀 Full Stack Developer | 🤖 AI Engineer | 💡 Builder
+</h3>
+
+<!-- ================= HACKATHON WINNER BADGE ================= -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CYPHER%204.0-1st%20Prize%20Winner-FFD700?style=for-the-badge&labelColor=000000" />
+</p>
+
+<!-- ================= PROFILE VIEWS ================= -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dexterrrrrrrrrrrrrrrrrrrrr&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
@@ -10,7 +22,7 @@
 
 <p align="center">
   💻 Building scalable web apps & intelligent systems <br>
-  🤖 Exploring AI, ML & real-world impact <br>
+  🤖 Exploring AI Engineering, LLMs & Agentic AI <br>
   🚀 Hackathons | Open Source | Innovation
 </p>
 
@@ -20,9 +32,10 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-- 🎓 3rd Year Information Science & Engineering Student
-- 💻 MERN Stack & Full Stack Developer
+- 🎓 3rd Year Information Science & Engineering Student @ SVIT
+- 💻 Full Stack & MERN Stack Developer
 - 🤖 AI/ML & AI Engineering Enthusiast
+- 🥇 1st Prize Winner @ Cypher 4.0 Hackathon
 - 🌟 Google Student Ambassador 2026
 - ⚡ Vice Chair, IEEE Information Theory Society, SVIT
 - 🚀 Open Source Contributor @ GSSoC'26
@@ -39,12 +52,40 @@
 
 <h2 align="center">⚡ Tech Stack</h2>
 
+<h3 align="center">💻 Programming Languages</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,mongodb,git,github,tailwind,vscode,tensorflow,pytorch" />
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
+</p>
+
+<h3 align="center">🌐 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,vite" />
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,redis" />
+</p>
+
+<h3 align="center">🤖 AI / ML & Data Science</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+<h3 align="center">🛠️ Tools & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel,linux" />
 </p>
 
 ---
@@ -56,6 +97,7 @@
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -72,7 +114,7 @@ AI-powered system that predicts spending & suggests savings
 
 <p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/personal-finance-predictor">
-<img src="https://img.shields.io/badge/📂 GitHub Repo-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 </p>
 
@@ -92,7 +134,7 @@ Real-time AQI prediction + smart waste reporting
 
 <p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/Bharath-Sync">
-<img src="https://img.shields.io/badge/📂 GitHub Repo-5B42F3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-5B42F3?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -116,7 +158,7 @@ Semantic caching + cost-aware LLM routing for efficient RAG
 
 <p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/smartrag">
-<img src="https://img.shields.io/badge/📂 GitHub Repo-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -136,7 +178,7 @@ AI-powered retinal image analysis & intelligent reports
 
 <p align="center">
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AI-retinal-analyzer">
-<img src="https://img.shields.io/badge/📂 GitHub Repo-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -184,24 +226,6 @@ AI-powered retinal image analysis & intelligent reports
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
-<br>
-
-<!-- ================= CONTRIBUTION GRAPH ================= -->
-
-<h2 align="center">📈 GitHub Contribution Graph</h2>
-
-<div align="center">
-
-<img
-  src="https://ghchart.rshah.org/00F7FF/dexterrrrrrrrrrrrrrrrrrrrr"
-  alt="Anurag Paul's GitHub Contributions"
-  width="100%"
-/>
-
-</div>
-
-<br>
-
 ---
 
 <!-- ================= LEETCODE ================= -->
@@ -209,9 +233,7 @@ AI-powered retinal image analysis & intelligent reports
 <h2 align="center">🧩 LeetCode</h2>
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Karma&ext=contest" />
-
+  <img src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
@@ -223,10 +245,12 @@ AI-powered retinal image analysis & intelligent reports
 <p align="center">
   🔹 Data Structures & Algorithms <br>
   🔹 Advanced MERN Stack <br>
-  🔹 Machine Learning Systems <br>
+  🔹 Machine Learning & Deep Learning <br>
   🔹 AI Engineering & LLM Applications <br>
   🔹 Retrieval-Augmented Generation (RAG) <br>
   🔹 Agentic AI & AI Agents <br>
+  🔹 LangChain & LangGraph <br>
+  🔹 Vector Databases & Embeddings <br>
   🔹 System Design
 </p>
 
@@ -234,16 +258,26 @@ AI-powered retinal image analysis & intelligent reports
 
 <!-- ================= ACHIEVEMENTS ================= -->
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🏆 Achievements & Recognition</h2>
 
 <p align="center">
-  🌟 Google Student Ambassador 2026 <br>
-  ⚡ Vice Chair @ IEEE Information Theory Society, SVIT <br>
-  🚀 Open Source Contributor @ GSSoC'26 <br>
-  🏆 National-Level Hackathon Participant <br>
-  💻 Built AI/ML & Full Stack Projects <br>
-  🎯 Organized Technical Events & Hackathons <br>
+
+  🥇 <b>1st Prize Winner | Cypher 4.0 Hackathon</b> 🏆 <br><br>
+
+  🌟 Google Student Ambassador 2026 <br><br>
+
+  ⚡ Vice Chair @ IEEE Information Theory Society, SVIT <br><br>
+
+  🚀 Open Source Contributor @ GSSoC'26 <br><br>
+
+  🏆 National-Level Hackathon Participant <br><br>
+
+  💻 Built AI/ML & Full Stack Projects <br><br>
+
+  🎯 Organized Technical Events & Hackathons <br><br>
+
   💡 Passionate Problem Solver
+
 </p>
 
 ---
@@ -273,7 +307,7 @@ AI-powered retinal image analysis & intelligent reports
 <!-- ================= THANK YOU BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:5B42F3,100:FF00CC&height=90&section=header&text=✨%20Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=30&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:5B42F3,100:FF00CC&height=90&section=header&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=ffffff" width="100%"/>
 </p>
 
 <!-- ================= FOOTER ================= -->
