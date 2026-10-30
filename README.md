@@ -1,4 +1,4 @@
-<!-- ================= ULTRA HEADER ================= -->
+ <!-- ================= ULTRA HEADER ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:00F7FF&height=300&section=header&text=ANURAG%20PAUL&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
@@ -7,7 +7,6 @@
 <h3 align="center">
   🚀 Full Stack Developer | 🤖 AI Engineer | 💡 Builder
 </h3>
-
 
 <!-- ================= PROFILE VIEWS ================= -->
 
@@ -30,29 +29,20 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-<div align="center">
+<p align="center">
 
-🎓 3rd Year Information Science & Engineering Student @ SVIT
+- 🎓 3rd Year Information Science & Engineering Student @ SVIT
+- 💻 Full Stack & MERN Stack Developer
+- 🤖 AI/ML & AI Engineering Enthusiast
+- 🥇 1st Prize Winner @ Cypher 4.0 Hackathon
+- 🥈 2nd Prize Winner @ National Level Hackathon 3.0, RRIT
+- 🌟 Google Student Ambassador 2026
+- ⚡ Vice Chair, IEEE Information Theory Society, SVIT
+- 🚀 Open Source Contributor @ GSSoC'26
+- 💡 Passionate about solving real-world problems
+- 🔥 Always Learning, Always Building
 
-💻 Full Stack & MERN Stack Developer
-
-🤖 AI/ML & AI Engineering Enthusiast
-
-🥇 1st Prize Winner @ Cypher 4.0 Hackathon
-
-🥈 2nd Prize Winner @ National Level Hackathon 3.0, RRIT
-
-🌟 Google Student Ambassador 2026
-
-⚡ Vice Chair, IEEE Information Theory Society, SVIT
-
-🚀 Open Source Contributor @ GSSoC'26
-
-💡 Passionate about solving real-world problems
-
-🔥 Always Learning, Always Building
-
-</div>
+</p>
 
 <p align="center">
   ⚡ <i>“Code. Break. Learn. Repeat.”</i>
@@ -118,9 +108,8 @@
     <td align="center"><b>☁️ Cloud & Deployment</b></td>
     <td align="center">
       <img
-        src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare,render"
-        alt="Cloud and Deployment Technologies"
-      />
+      src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare,render"
+      alt="AWS, Azure, Google Cloud, Vercel, Netlify, Cloudflare, Render"/>
     </td>
   </tr>
 
@@ -137,7 +126,6 @@
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="50%" align="center">
@@ -153,10 +141,7 @@ AI-powered system that predicts spending & suggests savings
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/personal-finance-predictor">
-  <img
-    src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"
-    alt="Personal Finance Predictor Repository"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Personal Finance Predictor Repository"/>
 </a>
 
 </td>
@@ -174,10 +159,7 @@ Real-time AQI prediction + smart waste reporting
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/Bharath-Sync">
-  <img
-    src="https://img.shields.io/badge/GitHub-Repository-5B42F3?style=for-the-badge&logo=github&logoColor=white"
-    alt="AQI Monitoring Repository"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Repository-5B42F3?style=for-the-badge&logo=github&logoColor=white" alt="AQI Monitoring Repository"/>
 </a>
 
 </td>
@@ -199,10 +181,7 @@ Semantic caching + cost-aware LLM routing for efficient RAG
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/smartrag">
-  <img
-    src="https://img.shields.io/badge/GitHub-Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white"
-    alt="SmartRAG Repository"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="SmartRAG Repository"/>
 </a>
 
 </td>
@@ -220,16 +199,12 @@ AI-powered retinal image analysis & intelligent reports
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AI-retinal-analyzer">
-  <img
-    src="https://img.shields.io/badge/GitHub-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
-    alt="AI Retinal Analyzer Repository"
-  />
+  <img src="https://img.shields.io/badge/GitHub-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="AI Retinal Analyzer Repository"/>
 </a>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -243,31 +218,26 @@ AI-powered retinal image analysis & intelligent reports
 <!-- TOP ROW: TWO CARDS SIDE BY SIDE -->
 
 <p align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
     width="49%"
     alt="Repositories Per Language"
   />
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
     width="49%"
     alt="Most Committed Languages"
   />
-
 </p>
 
 <!-- BOTTOM ROW: ONE CARD CENTERED -->
 
 <p align="center">
-
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dexterrrrrrrrrrrrrrrrrrrrr&theme=algolia"
     width="49%"
     alt="GitHub Statistics"
   />
-
 </p>
 
 <br>
@@ -277,12 +247,10 @@ AI-powered retinal image analysis & intelligent reports
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-
   <img
     src="https://streak-stats.demolab.com?user=dexterrrrrrrrrrrrrrrrrrrrr&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Statistics"
   />
-
 </p>
 
 <br>
@@ -292,13 +260,11 @@ AI-powered retinal image analysis & intelligent reports
 <h2 align="center">📈 GitHub Contribution Graph</h2>
 
 <p align="center">
-
   <img
     src="https://ghchart.rshah.org/00F7FF/dexterrrrrrrrrrrrrrrrrrrrr"
     alt="Anurag Paul's GitHub Contributions"
     width="100%"
   />
-
 </p>
 
 <br>
@@ -310,12 +276,10 @@ AI-powered retinal image analysis & intelligent reports
 <h2 align="center">🧩 LeetCode</h2>
 
 <p align="center">
-
   <img
     src="https://leetcard.jacoblin.cool/anurag_paul_2006?theme=dark&font=Karma&ext=contest"
     alt="LeetCode Statistics"
   />
-
 </p>
 
 ---
@@ -325,7 +289,6 @@ AI-powered retinal image analysis & intelligent reports
 <h2 align="center">🧠 Currently Learning</h2>
 
 <p align="center">
-
   🔹 Data Structures & Algorithms <br>
   🔹 Advanced MERN Stack <br>
   🔹 Machine Learning & Deep Learning <br>
@@ -335,7 +298,6 @@ AI-powered retinal image analysis & intelligent reports
   🔹 LangChain & LangGraph <br>
   🔹 Vector Databases & Embeddings <br>
   🔹 System Design
-
 </p>
 
 ---
@@ -346,26 +308,14 @@ AI-powered retinal image analysis & intelligent reports
 
 <div align="center">
 
-<!-- CYPHER 4.0 -->
-
-<h3>🥇 Cypher 4.0 Hackathon | 1st Place 🏆</h3>
+<h3>🥇 Cypher 4.0 Hackathon | 1st Prize Winner 🏆</h3>
 
 <p>
   <img
-    src="https://img.shields.io/badge/CYPHER%204.0-1st%20Place%20Winner-FFD700?style=for-the-badge&labelColor=000000"
-    alt="Cypher 4.0 Hackathon First Place Winner"
+    src="https://img.shields.io/badge/CYPHER%204.0-1st%20Prize%20Winner-FFD700?style=for-the-badge&labelColor=000000"
+    alt="Cypher 4.0 Hackathon Winner"
   />
 </p>
-
-<p>
-  Secured <b>1st Place</b> among 450+ participants at
-  <b>Cypher 4.0</b>, organized by the Rotaract Club of
-  Atria Institute of Technology, Bengaluru.
-</p>
-
-<br>
-
-<!-- NATIONAL LEVEL HACKATHON 3.0 -->
 
 <h3>🥈 National Level Hackathon 3.0 | 2nd Place 🏆</h3>
 
@@ -376,26 +326,15 @@ AI-powered retinal image analysis & intelligent reports
   />
 </p>
 
-<p>
-  Secured <b>2nd Place</b> at
-  <b>National Level Hackathon 3.0</b>,
-  organized by the Department of Computer Science & Engineering,
-  RR Institute of Technology, Bengaluru.
-</p>
-
-<p>
-  <i>Innovate for Impact: Technology Solutions for Real-World Challenges</i>
-</p>
-
 <br>
-
-<!-- OTHER RECOGNITIONS -->
 
 <p>🌟 <b>Google Student Ambassador 2026</b></p>
 
 <p>⚡ <b>Vice Chair | IEEE Information Theory Society, SVIT</b></p>
 
 <p>🚀 <b>Open Source Contributor | GSSoC'26</b></p>
+
+<p>🏆 National-Level Hackathon Participant</p>
 
 <p>💻 Built AI/ML & Full Stack Projects</p>
 
@@ -443,13 +382,11 @@ AI-powered retinal image analysis & intelligent reports
 <!-- ================= THANK YOU BANNER ================= -->
 
 <p align="center">
-
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:5B42F3,100:FF00CC&height=90&section=header&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=ffffff"
     width="100%"
     alt="Thanks for visiting"
   />
-
 </p>
 
 <!-- ================= FOOTER ================= -->
@@ -459,3 +396,5 @@ AI-powered retinal image analysis & intelligent reports
   width="100%"
   alt="Footer"
 />
+
+update in this tooo and give me the whole code
