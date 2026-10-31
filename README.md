@@ -397,4 +397,3 @@ AI-powered retinal image analysis & intelligent reports
   alt="Footer"
 />
 
-update in this tooo and give me the whole code
