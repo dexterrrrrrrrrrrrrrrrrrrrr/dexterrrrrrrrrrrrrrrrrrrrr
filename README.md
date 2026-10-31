@@ -34,7 +34,7 @@
 - 🎓 3rd Year Information Science & Engineering Student @ SVIT
 - 💻 Full Stack & MERN Stack Developer
 - 🤖 AI/ML & AI Engineering Enthusiast
-- 🥇 1st Prize Winner @ Cypher 4.0 Hackathon
+- 🥇 1st Prize Winner @ Cypher 4.0 Hackathon, Atria IT
 - 🥈 2nd Prize Winner @ National Level Hackathon 3.0, RRIT
 - 🌟 Google Student Ambassador 2026
 - ⚡ Vice Chair, IEEE Information Theory Society, SVIT
