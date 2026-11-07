@@ -204,6 +204,10 @@ AI-powered retinal image analysis & intelligent reports
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" align="center">
 
 <h3>🛡️ AgentShield-AI</h3>
@@ -219,6 +223,25 @@ human-in-the-loop approvals, isolated code execution & real-time monitoring
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AgentShield-AI">
   <img src="https://img.shields.io/badge/GitHub-Repository-00C896?style=for-the-badge&logo=github&logoColor=white" alt="AgentShield-AI Repository"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<h3>🕸️ GraphMind GraphRAG</h3>
+
+<p>
+Knowledge graph-enhanced RAG combining semantic search,
+graph relationships & local LLM-powered question answering
+</p>
+
+<p>
+<code>Python • FastAPI • Neo4j • Ollama • GraphRAG</code>
+</p>
+
+<a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/graphmind-graphrag">
+  <img src="https://img.shields.io/badge/GitHub-Repository-FF00CC?style=for-the-badge&logo=github&logoColor=white" alt="GraphMind GraphRAG Repository"/>
 </a>
 
 </td>
