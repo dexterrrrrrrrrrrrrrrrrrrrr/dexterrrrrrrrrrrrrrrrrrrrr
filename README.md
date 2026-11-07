@@ -204,6 +204,25 @@ AI-powered retinal image analysis & intelligent reports
 
 </td>
 
+<td width="50%" align="center">
+
+<h3>🛡️ AgentShield-AI</h3>
+
+<p>
+Secure Agentic AI platform with LangGraph orchestration,
+human-in-the-loop approvals, isolated code execution & real-time monitoring
+</p>
+
+<p>
+<code>Python • FastAPI • LangGraph • Groq • Next.js • MongoDB • Docker</code>
+</p>
+
+<a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AgentShield-AI">
+  <img src="https://img.shields.io/badge/GitHub-Repository-00C896?style=for-the-badge&logo=github&logoColor=white" alt="AgentShield-AI Repository"/>
+</a>
+
+</td>
+
 </tr>
 </table>
 
