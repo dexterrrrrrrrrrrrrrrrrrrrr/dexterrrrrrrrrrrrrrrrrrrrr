@@ -251,6 +251,34 @@ graph relationships & local LLM-powered question answering
 
 </div>
 
+<!-- ================= DISHA 360 ================= -->
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🚀 Disha 360</h3>
+
+   <p>
+          Disha 360 — Featured Project
+        </p>
+
+   <p>
+          <code>Technology Stack</code>
+        </p>
+
+   <a href="YOUR_DISHA_360_REPOSITORY_URL">
+          <img
+            src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"
+            alt="Disha 360 Repository"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 ---
 
 <!-- ================= GITHUB ANALYTICS ================= -->
