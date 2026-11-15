@@ -280,56 +280,41 @@ graph relationships & local LLM-powered question answering
 
 </div>
 
+
 <!-- ================= PROJECT 7: DISHA 360 ================= -->
-<!-- Centered below the existing 6 projects -->
-<!-- Verify description and tech stack against actual repository -->
 
 <div align="center">
 
 <table>
 <tr>
-
 <td align="center" width="600">
 
-<h3>🧭 Disha 360 — AI-Powered Career Intelligence Platform</h3>
+<h3>🧭 Disha 360 — Placement Training Platform</h3>
 
 <p>
-An intelligent career guidance and development platform
-designed to help students and professionals make informed
-career decisions through personalized AI-powered assistance,
-skill-gap analysis, career recommendations, and structured
-learning roadmaps.
+A placement preparation and training platform designed
+to help students strengthen their skills, prepare for
+recruitment opportunities, and advance toward their
+career goals.
 </p>
 
 <p>
-<b>✨ Proposed Key Features:</b><br>
-🤖 AI-Powered Career Guidance<br>
-🎯 Personalized Career Recommendations<br>
-📊 Skill Gap Analysis & Insights<br>
-🗺️ Intelligent Learning Roadmaps<br>
-💬 AI Assistant for Career Queries<br>
-📈 Career Progress & Development Tracking
+<code>Full Stack Web Development • Placement Training</code>
 </p>
 
-<p>
-<code>React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB • Groq • Vercel</code>
-</p>
-
-<a href="https://github.com/search?q=Disha+360&type=repositories">
+<a href="https://disha360-cypher.vercel.app/">
   <img
-    src="https://img.shields.io/badge/GitHub-View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"
-    alt="Find Disha 360 Repository"
+    src="https://img.shields.io/badge/Live-Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"
+    alt="Disha 360 Live Demo"
   />
 </a>
 
 </td>
-
 </tr>
 </table>
 
 </div>
 
----
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
