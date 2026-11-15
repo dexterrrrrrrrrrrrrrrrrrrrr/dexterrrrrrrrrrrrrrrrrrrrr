@@ -30,7 +30,7 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-<div align="center">
+
 
 - 🎓 3rd Year Information Science & Engineering Student @ SVIT
 - 💻 Full Stack & MERN Stack Developer
@@ -43,7 +43,7 @@
 - 💡 Passionate about solving real-world problems
 - 🔥 Always Learning, Always Building
 
-</div>
+
 
 <p align="center">
   ⚡ <i>“Code. Break. Learn. Repeat.”</i>
