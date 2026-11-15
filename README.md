@@ -1,4 +1,5 @@
- <!-- ================= ULTRA HEADER ================= -->
+
+<!-- ================= ULTRA HEADER ================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0f2027,50:203a43,75:2c5364,100:00F7FF&height=300&section=header&text=ANURAG%20PAUL&fontSize=70&fontColor=00F7FF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
@@ -29,7 +30,7 @@
 
 <h2 align="center">🧠 About Me</h2>
 
-<p align="center">
+<div align="center">
 
 - 🎓 3rd Year Information Science & Engineering Student @ SVIT
 - 💻 Full Stack & MERN Stack Developer
@@ -42,7 +43,7 @@
 - 💡 Passionate about solving real-world problems
 - 🔥 Always Learning, Always Building
 
-</p>
+</div>
 
 <p align="center">
   ⚡ <i>“Code. Break. Learn. Repeat.”</i>
@@ -108,8 +109,9 @@
     <td align="center"><b>☁️ Cloud & Deployment</b></td>
     <td align="center">
       <img
-      src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare,render"
-      alt="AWS, Azure, Google Cloud, Vercel, Netlify, Cloudflare, Render"/>
+        src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,netlify,cloudflare,render"
+        alt="AWS, Azure, Google Cloud, Vercel, Netlify, Cloudflare, Render"
+      />
     </td>
   </tr>
 
@@ -126,6 +128,9 @@
 <div align="center">
 
 <table>
+
+<!-- ================= PROJECT ROW 1 ================= -->
+
 <tr>
 
 <td width="50%" align="center">
@@ -141,7 +146,10 @@ AI-powered system that predicts spending & suggests savings
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/personal-finance-predictor">
-  <img src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Personal Finance Predictor Repository"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"
+    alt="Personal Finance Predictor Repository"
+  />
 </a>
 
 </td>
@@ -159,12 +167,17 @@ Real-time AQI prediction + smart waste reporting
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/Bharath-Sync">
-  <img src="https://img.shields.io/badge/GitHub-Repository-5B42F3?style=for-the-badge&logo=github&logoColor=white" alt="AQI Monitoring Repository"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-Repository-5B42F3?style=for-the-badge&logo=github&logoColor=white"
+    alt="AQI Monitoring Repository"
+  />
 </a>
 
 </td>
 
 </tr>
+
+<!-- ================= PROJECT ROW 2 ================= -->
 
 <tr>
 
@@ -181,7 +194,10 @@ Semantic caching + cost-aware LLM routing for efficient RAG
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/smartrag">
-  <img src="https://img.shields.io/badge/GitHub-Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="SmartRAG Repository"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-Repository-FF6B35?style=for-the-badge&logo=github&logoColor=white"
+    alt="SmartRAG Repository"
+  />
 </a>
 
 </td>
@@ -199,12 +215,17 @@ AI-powered retinal image analysis & intelligent reports
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AI-retinal-analyzer">
-  <img src="https://img.shields.io/badge/GitHub-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="AI Retinal Analyzer Repository"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-Repository-8A2BE2?style=for-the-badge&logo=github&logoColor=white"
+    alt="AI Retinal Analyzer Repository"
+  />
 </a>
 
 </td>
 
 </tr>
+
+<!-- ================= PROJECT ROW 3 ================= -->
 
 <tr>
 
@@ -214,7 +235,8 @@ AI-powered retinal image analysis & intelligent reports
 
 <p>
 Secure Agentic AI platform with LangGraph orchestration,
-human-in-the-loop approvals, isolated code execution & real-time monitoring
+human-in-the-loop approvals, isolated code execution &
+real-time monitoring
 </p>
 
 <p>
@@ -222,7 +244,10 @@ human-in-the-loop approvals, isolated code execution & real-time monitoring
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/AgentShield-AI">
-  <img src="https://img.shields.io/badge/GitHub-Repository-00C896?style=for-the-badge&logo=github&logoColor=white" alt="AgentShield-AI Repository"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-Repository-00C896?style=for-the-badge&logo=github&logoColor=white"
+    alt="AgentShield-AI Repository"
+  />
 </a>
 
 </td>
@@ -241,7 +266,60 @@ graph relationships & local LLM-powered question answering
 </p>
 
 <a href="https://github.com/dexterrrrrrrrrrrrrrrrrrrrr/graphmind-graphrag">
-  <img src="https://img.shields.io/badge/GitHub-Repository-FF00CC?style=for-the-badge&logo=github&logoColor=white" alt="GraphMind GraphRAG Repository"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-Repository-FF00CC?style=for-the-badge&logo=github&logoColor=white"
+    alt="GraphMind GraphRAG Repository"
+  />
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<!-- ================= PROJECT 7: DISHA 360 ================= -->
+<!-- Centered below the existing 6 projects -->
+<!-- Verify description and tech stack against actual repository -->
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="600">
+
+<h3>🧭 Disha 360 — AI-Powered Career Intelligence Platform</h3>
+
+<p>
+An intelligent career guidance and development platform
+designed to help students and professionals make informed
+career decisions through personalized AI-powered assistance,
+skill-gap analysis, career recommendations, and structured
+learning roadmaps.
+</p>
+
+<p>
+<b>✨ Proposed Key Features:</b><br>
+🤖 AI-Powered Career Guidance<br>
+🎯 Personalized Career Recommendations<br>
+📊 Skill Gap Analysis & Insights<br>
+🗺️ Intelligent Learning Roadmaps<br>
+💬 AI Assistant for Career Queries<br>
+📈 Career Progress & Development Tracking
+</p>
+
+<p>
+<code>React • TypeScript • Tailwind CSS • Node.js • Express • MongoDB • Groq • Vercel</code>
+</p>
+
+<a href="https://github.com/search?q=Disha+360&type=repositories">
+  <img
+    src="https://img.shields.io/badge/GitHub-View%20Project-00F7FF?style=for-the-badge&logo=github&logoColor=black"
+    alt="Find Disha 360 Repository"
+  />
 </a>
 
 </td>
@@ -250,34 +328,6 @@ graph relationships & local LLM-powered question answering
 </table>
 
 </div>
-
-<!-- ================= DISHA 360 ================= -->
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🚀 Disha 360</h3>
-
-   <p>
-          Disha 360 — Featured Project
-        </p>
-
-   <p>
-          <code>Technology Stack</code>
-        </p>
-
-   <a href="YOUR_DISHA_360_REPOSITORY_URL">
-          <img
-            src="https://img.shields.io/badge/GitHub-Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"
-            alt="Disha 360 Repository"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ---
 
@@ -465,5 +515,4 @@ graph relationships & local LLM-powered question answering
   src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=150&section=footer"
   width="100%"
   alt="Footer"
-/>
-
+ />
